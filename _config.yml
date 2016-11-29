@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Adriano Tanaka"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Adriano"
 description              : "Um site dedicado para Oracle e Linux"
 url                      : https://adrianotanaka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
