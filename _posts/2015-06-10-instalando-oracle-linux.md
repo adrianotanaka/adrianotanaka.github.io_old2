@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Instalando o Oracle Linux"
 date:   2015-06-10 14:07:23 
 categories: posts

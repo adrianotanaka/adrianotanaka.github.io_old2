@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Android - Comandos GNU/Linux/Android"
 date:   2015-07-31 11:45:23 
 categories: posts

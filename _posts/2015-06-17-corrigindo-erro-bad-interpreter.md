@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Corrigindo o erro bad interpreter: No such file or directory no Oracle Linux, CentOS ou RedHat"
 date:   2015-06-17 10:05:23 
 categories: posts
