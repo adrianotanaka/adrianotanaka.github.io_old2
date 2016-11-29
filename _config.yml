@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Adriano Tanaka"
+title                    : "Site Title"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "Um site dedicado para Oracle e Linux"
-url                      : https://adrianotanaka.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adriano Tanaka"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "OCP 12c"
-  location         : "Brasil"
-  email            : "adriano.tanakaa@gmail.com"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
