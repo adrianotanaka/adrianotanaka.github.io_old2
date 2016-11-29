@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[ORACLE] Verificando a consistência de um arquivo de backup do RMAN"
 date:   2016-02-12 
 categories:
