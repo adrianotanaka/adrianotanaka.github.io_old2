@@ -2,7 +2,6 @@
 title: "Como realizar downgrade de versões no Oracle"
 date: 2016-08-29 10:51:23 
 categories: posts
-layout: default
 ---
 
 Como realizar downgrade de versões no Oracle
