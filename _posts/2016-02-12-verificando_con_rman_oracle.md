@@ -1,8 +1,8 @@
 ---
-title:  "[ORACLE] Verificando a consistência de um arquivo de backup do RMAN"
-date:   2016-02-12 
+title: "[ORACLE] Verificando a consistência de um arquivo de backup do RMAN"
+date: 2016-02-12 00:00:00 Z
 categories:
-  - Post Formats
+- Post Formats
 ---
 
 Hoje me deparei com um problema gravíssimo, um backup do Oracle não estava restaurando e o seguinte erro estava sendo exibido:

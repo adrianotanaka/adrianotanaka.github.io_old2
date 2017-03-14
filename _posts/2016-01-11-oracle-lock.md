@@ -1,8 +1,8 @@
 ---
-
-title:  "[ORACLE] Locks"
-date:   2016-01-11 11:12:23 
-categories: posts
+title: "[ORACLE] Locks"
+date: 2016-01-11 11:12:23 Z
+categories:
+- posts
 ---
 
 ## Oracle Lock

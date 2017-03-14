@@ -1,8 +1,8 @@
 ---
-title: "O que significa cada letra nas versões do Oracle"
-date: 2016-02-03 10:31:23 
-categories: posts
-
+title: O que significa cada letra nas versões do Oracle
+date: 2016-02-03 10:31:23 Z
+categories:
+- posts
 ---
 
 # Significado das letras nas versões do Oracle.

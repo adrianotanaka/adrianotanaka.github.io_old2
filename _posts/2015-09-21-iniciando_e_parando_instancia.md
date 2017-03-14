@@ -1,8 +1,8 @@
 ---
-title:  "Startup e shutdown de uma instância Oracle"
-date:   2015-09-21 09:20:00
-categories: posts
-
+title: Startup e shutdown de uma instância Oracle
+date: 2015-09-21 09:20:00 Z
+categories:
+- posts
 ---
 
 Entender como uma instância pode ser iniciada ou parada no banco de dados oracle é muito importante para um administrador de banco de dados, existem alguns problemas que podem ser resolvidos em determinado stagio da instância.

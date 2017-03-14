@@ -1,7 +1,8 @@
 ---
-title:  "Enviando e-mail no linux usando o utilitario mail"
-date:   2015-06-10 
+title: Enviando e-mail no linux usando o utilitario mail
+date: 2015-06-10 00:00:00 Z
 ---
+
 Simples script para enviar e-mails usando o utilitario mail, que é padrão em diversas distribuições linux.
 <!--more-->
 {% highlight bash %}

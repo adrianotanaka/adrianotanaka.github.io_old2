@@ -1,8 +1,8 @@
 ---
-
-title:  "Aplicativo Guia de comandos Linux"
-date:   2015-06-19 11:51:23 
-categories: posts
+title: Aplicativo Guia de comandos Linux
+date: 2015-06-19 11:51:23 Z
+categories:
+- posts
 ---
 
 A um certo tempo, criei um aplicativo para android tentando ajudar quem está iniciando no mundo linux, com ele você pode consultar os principais comandos 

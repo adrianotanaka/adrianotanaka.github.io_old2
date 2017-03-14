@@ -1,8 +1,8 @@
 ---
 title: "[Linux] Criando um repositório local YUM"
-date: 2015-12-17 09:30:23 
-categories: posts
-
+date: 2015-12-17 09:30:23 Z
+categories:
+- posts
 ---
 
 **Antes de começarmos a configurar  o nosso repositório local, primeiro devemos saber o que é um repositório:**
